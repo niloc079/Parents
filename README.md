@@ -16,7 +16,7 @@ Gotchas: Any new network won't have these settings
 ### OpenDNS
 URL: https://www.opendns.com/
 DNS Server(s): 208.67.222.222, 208.67.220.220
-Action(s): Signup for an account, sdet your rules (i.e. Allow games, no gambling), setup dynamic DNS on a workstation that is usually at home, adjust custom error responses (Notifies user of block), update your DNS settings.
+Action(s): Signup for an account, set your rules (i.e. Allow games, no gambling), setup dynamic DNS on a workstation that is usually at home, adjust custom error responses (Notifies user of block), update your DNS settings.
 Cost: Free
 
 ### CloudFlare
@@ -41,6 +41,12 @@ Cost: Free <50
 ### Bark
 URL: https://www.bark.us/
 Cost: 
+
+### Norton Family
+URL: https://family.norton.com/
+Cost: $50 Yearly + Trial
+Action(s): Install software on workstations and phones and link to your subscription. Install parent apps on phone.
+Comments: Tends to be heavy on management if kids are older, allowing websites. If used for school, tends to lean to allow more due to software. 
 
 ### Apple Content Restrictions (Apple, iPhone, iPad)
 URL: https://support.apple.com/en-us/HT201304
