@@ -1,16 +1,17 @@
 # Parents
 
 ###
-A place to help parents manage their home network and children's devices using simple technology
+A place to help parents manage their home network and children's devices using technology explained simply
 
-As always, use the power of the internet on how to change these settings or utilize the services FAQ's and more to determine how best to impliment
+As always, use the power of the internet on how to change these settings or utilize the services FAQ's and more to determine how best to implement the changes for you. 
 
 ## DNS
 
 Technical Acuity: Easy
 Time/Effort: <15 mins
-Purpose: Uses DNS to hide inappropriate or filtered websites to anyone that has this configured
-Comments: You can configure to use on your entire network or the wireless settings on a mobile phone. 
+Purpose: Uses DNS to hide inappropriate or filtered websites
+Comments: You can configure on your entire network or the wireless settings on a mobile phone or device. 
+Gotchas: Any new network won't have these settings
 
 ### OpenDNS
 URL: https://www.opendns.com/
@@ -31,6 +32,11 @@ Technical Acuity: Medium
 Time/Effort: <30 mins
 Purpose: Uses a proxy to filter websites
 Comments: You can configure to use on your entire network or the wireless settings on a mobile phone. Some have apps you download to control devices. 
+Gotchas: Usually a paid service 
+
+### CloudFlare
+URL: https://www.cloudflare.com/plans/zero-trust-services/
+Cost: Free <50
 
 ### Bark
 URL: https://www.bark.us/
@@ -38,6 +44,6 @@ Cost:
 
 ### Apple Content Restrictions (Apple, iPhone, iPad)
 URL: https://support.apple.com/en-us/HT201304
-Action(s): Enable content restrictions and set passcode. Defaults limit access to "adult" themes while additional restrictions around music, movies, books are available, such as PG vs R. 
-Comments: If in family, you can remotely control device settings
+Action(s): Enable content restrictions and set passcode. Defaults limit access to "adult" themes. Additional restrictions around music, movies, books are available, such as PG vs R. 
+Comments: If in family, you can remotely control device settings, otherwise per device. 
 Cost: Free
