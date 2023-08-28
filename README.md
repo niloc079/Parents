@@ -29,7 +29,6 @@ Questions to ask your family;
 - Purpose: Allows service via ESIM to your mobile provider or wireless when ready
 - Benefit(s): Attached and hard to lose. Limited apps and functionality. 
 
-## -------------
 ## DNS
 
 - Technical Acuity: Easy
